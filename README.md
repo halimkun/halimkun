@@ -10,7 +10,9 @@
 <p align="center"> <a href="https://github.com/halimkun"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhalimkun&longCache=true"/></a> <a href="https://github.com/halimkun"><img src="https://komarev.com/ghpvc/?username=halimkun&label=Visitors" alt="halimkun" /></a> </p>
 
 ---
-✨ I'm a junior full stack developer, and a final year informatics engineering student at one of the universities in my area, I became a freelancer to help finance my education a little. ✨ I'm a big fan of technology and I love to learn new things.
+✨ I'm a junior full stack developer, and a final year informatics engineering student at one of the universities in my area, I became a freelancer to help finance my education a little. 
+
+✨ I'm a big fan of technology and I love to learn new things.
 
 ---
 
