@@ -28,5 +28,5 @@
 ###  **🎓 My Certifications**
 ---
 
-[![dicoding](https://img.shields.io/badge/dicoding-203354?style=for-the-badge)](https://www.dicoding.com) &nbsp;
+[![dicoding](https://img.shields.io/badge/dicoding-203354?style=for-the-badge)](./SERTIFICATIONS.md) &nbsp;
 [![codepolitan](https://img.shields.io/badge/codepolitan-008080?style=for-the-badge)](https://www.codepolitan.com) &nbsp;
