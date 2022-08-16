@@ -30,7 +30,7 @@
 |   8   | Belajar Dasar Pemrograman JavaScript                               | [L4PQ4M364XO1](https://www.dicoding.com/certificates/L4PQ4M364XO1) |
 |   9   | Belajar Membuat Aplikasi Flutter untuk Pemula                      | [6RPNDKK44Z2M](https://www.dicoding.com/certificates/6RPNDKK44Z2M) |
 |  10   | Belajar Prinsip Pemrograman SOLID                                  | [KEXL3R9G4PG2](https://www.dicoding.com/certificates/KEXL3R9G4PG2) |
-|  11   | Belajar Dasar Visualisasi Data                                     | [72ZD24G69ZYW](https://www.dicoding.com/certificates/72ZD24G69ZYW) |
+|  11   | Belajar Dasar Visualisasi Data                                     | [07Z6RELKWPQR](https://www.dicoding.com/certificates/07Z6RELKWPQR) |
 |  12   | Memulai Pemrograman Dengan Python                                  | [L4PQMOVKOZO1](https://www.dicoding.com/certificates/L4PQMOVKOZO1) |
 |  13   | Belajar Machine Learning untuk Pemula                              | [RVZK4DR6EPD5](https://www.dicoding.com/certificates/RVZK4DR6EPD5) |
 
