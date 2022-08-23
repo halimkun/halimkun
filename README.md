@@ -35,4 +35,4 @@
 
 ###  **💻 Stats**
 ---
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=halimkun&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=halimkun&theme=github-dark-blue&hide_border=true)](https://github.com/halimkun)
