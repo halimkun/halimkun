@@ -26,7 +26,7 @@
 |   4   | Belajar Membuat Front-End Web untuk Pemula                         | [4EXG5Q4GQXRL](https://www.dicoding.com/certificates/4EXG5Q4GQXRL) |
 |   5   | Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud | [53XE008N0XRN](https://www.dicoding.com/certificates/53XE008N0XRN) |
 |   6   | Belajar Dasar Pemrograman Web                                      | [NVP7K1E1WZR0](https://www.dicoding.com/certificates/NVP7K1E1WZR0) |
-|   7   | Belajar Dasar Git dengan GitHub                                    | [JLX1G1DK6Z72](https://www.dicoding.com/certificates/JLX1G1DK6Z72) |
+|   7   | Belajar Dasar Git dengan GitHub                                    | [0LZ010QJKP65](https://www.dicoding.com/certificates/0LZ010QJKP65) |
 |   8   | Belajar Dasar Pemrograman JavaScript                               | [L4PQ4M364XO1](https://www.dicoding.com/certificates/L4PQ4M364XO1) |
 |   9   | Belajar Membuat Aplikasi Flutter untuk Pemula                      | [6RPNDKK44Z2M](https://www.dicoding.com/certificates/6RPNDKK44Z2M) |
 |  10   | Belajar Prinsip Pemrograman SOLID                                  | [KEXL3R9G4PG2](https://www.dicoding.com/certificates/KEXL3R9G4PG2) |
