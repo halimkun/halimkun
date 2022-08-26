@@ -33,5 +33,6 @@
 |  11   | Belajar Dasar Visualisasi Data                                     | [07Z6RELKWPQR](https://www.dicoding.com/certificates/07Z6RELKWPQR) |
 |  12   | Memulai Pemrograman Dengan Python                                  | [6RPNDJWW5Z2M](https://www.dicoding.com/certificates/6RPNDJWW5Z2M) |
 |  13   | Belajar Machine Learning untuk Pemula                              | [0LZ01EQ2NP65](https://www.dicoding.com/certificates/0LZ01EQ2NP65) |
+|  14   | Belajar Pengembangan Machine Learning                              | [N9ZO7KY50ZG5](https://www.dicoding.com/certificates/N9ZO7KY50ZG5) |
 
 </div>
