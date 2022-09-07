@@ -1,4 +1,4 @@
-name: Waka Readme
+name: waka-box
 
 on:
   workflow_dispatch:
@@ -11,7 +11,7 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: matchai/waka-box@v4.0.5
         with:
           API_BASE_URL: https://wakapi.dev/api
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
