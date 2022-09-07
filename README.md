@@ -40,4 +40,14 @@
 ---
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript       5 hrs 38 mins   ███████████████▓░░░░░░░░░   63.00 %
+TypeScript JSX   2 hrs 41 mins   ███████▓░░░░░░░░░░░░░░░░░   30.06 %
+CSS              0 hrs 14 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+PHP              0 hrs 12 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+YAML             0 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Markdown         0 hrs 3 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+```
+
 <!--END_SECTION:waka-->
