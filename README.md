@@ -39,4 +39,8 @@
 <p align="center"> <a href="https://github.com/halimkun"><img alt="GitHub" src="http://github-readme-streak-stats.herokuapp.com?user=halimkun&theme=github-dark-blue&hide_border=true"/></a></p>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-81-blue)
+
+
+ Last Updated on 07/09/2022 04:05:53 UTC
 <!--END_SECTION:waka-->
