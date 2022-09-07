@@ -37,5 +37,7 @@
 ---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=halimkun&theme=github-dark-blue&hide_border=true)](https://github.com/halimkun)
 
+---
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
