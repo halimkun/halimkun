@@ -35,9 +35,8 @@
 
 ###  **💻 Stats**
 ---
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=halimkun&theme=github-dark-blue&hide_border=true)](https://github.com/halimkun)
 
----
+<p align="center"> <a href="https://github.com/halimkun"><img alt="GitHub" src="http://github-readme-streak-stats.herokuapp.com?user=halimkun&theme=github-dark-blue&hide_border=true"/></a></p>
 
 <!--START_SECTION:waka-->
 
