@@ -13,6 +13,7 @@ jobs:
     steps:
       - uses: matchai/waka-box@v4.0.5
         with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           API_BASE_URL: https://wakapi.dev/api
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
