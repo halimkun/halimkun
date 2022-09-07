@@ -17,4 +17,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           API_BASE_URL: https://wakapi.dev/api
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          REPOSITORY: <gh_username/gh_username>
           
