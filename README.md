@@ -12,10 +12,11 @@
 
 ---
 
-[![Linkedin Badge](https://img.shields.io/badge/-halimkun-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/halimkun/)](https://www.linkedin.com/in/halimkun/)
-[![Twitter Badge](https://img.shields.io/badge/-@hlmkun-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hlmkun)](https://twitter.com/hlmkun)
-[![Instagram Badge](https://img.shields.io/badge/-@hlmkun-dd3a7b?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/hlmkun/)](https://instagram.com/hlmkun)
-[![Website Badge](https://img.shields.io/badge/-halimkun.com-52575D?style=flat&logo=Google-Chrome&logoColor=white&link=https://halimkun.com)](https://halimkun.com)
+[![Linkedin Badge](https://img.shields.io/badge/-HALIMKUN-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/halimkun/)](https://www.linkedin.com/in/halimkun/)
+[![Twitter Badge](https://img.shields.io/badge/-@HLMKUN-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hlmkun)](https://twitter.com/hlmkun)
+[![Instagram Badge](https://img.shields.io/badge/-@HLMKUN-dd3a7b?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/hlmkun/)](https://instagram.com/hlmkun)
+[![Website Badge](https://img.shields.io/badge/-HALIMKUN.COM-319795?style=flat&logo=Google-Chrome&logoColor=white&link=https://halimkun.com)](https://halimkun.com)
+[![Website Badge](https://img.shields.io/badge/-DONATION_(ID)-fac76c?style=flat&logoColor=white&link=https://saweria.co/halimkun)](https://saweria.co/halimkun)
 
 ✨ I'm a junior full stack developer, and a final year informatics engineering student at one of the universities in my area, I became a freelancer to help finance my education a little. 
 
