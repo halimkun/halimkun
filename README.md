@@ -31,10 +31,3 @@
 
 [![dicoding](https://img.shields.io/badge/dicoding-203354?style=for-the-badge)](./SERTIFICATIONS.md) &nbsp;
 [![codepolitan](https://img.shields.io/badge/codepolitan-008080?style=for-the-badge)](https://github.com/halimkun) &nbsp;
-
-<br/>
-
-###  **💻 Stats**
----
-
-<p align="center"> <a href="https://github.com/halimkun"><img alt="GitHub" src="http://github-readme-streak-stats.herokuapp.com?user=halimkun&theme=github-dark-blue&hide_border=true"/></a></p>
