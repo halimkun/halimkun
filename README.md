@@ -31,3 +31,9 @@
 
 [![dicoding](https://img.shields.io/badge/dicoding-203354?style=for-the-badge)](./SERTIFICATIONS.md) &nbsp;
 [![codepolitan](https://img.shields.io/badge/codepolitan-008080?style=for-the-badge)](https://github.com/halimkun) &nbsp;
+
+
+### **Holopin Badge**
+---
+
+[![An image of @halimkun's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/halimkun)](https://holopin.io/@halimkun)
